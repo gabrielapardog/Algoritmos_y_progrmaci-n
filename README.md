@@ -1,1 +1,1 @@
-# Algoritmos_y_progrmaci-n
+# Algoritmos_y_progrmacion
